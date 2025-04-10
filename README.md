@@ -16,8 +16,8 @@ This shell script is designed to automate the installation of Mytai2010, a light
 step 1. Clone the repository:
 
     
-    git clone https://github.com/Mytai20100/freeroot.git
-    cd freeroot
+    git clone https://github.com/brunusansi/ayx.git
+    cd ayx
     
     
 step 2. Run the installer script:
